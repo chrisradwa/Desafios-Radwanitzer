@@ -1,0 +1,17 @@
+#imgLogo{
+    width: 100px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+} 
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+}
